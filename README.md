@@ -6,12 +6,6 @@ Exercício: Faça uma calculadora.
 <hr>
 <br/>
 
-## [Sobre CSS](https://nathrds.github.io/sobre_css/)
-
-Site responsivo sobre CSS.
-
-<br/>
-
 ## Tecnologias
 * HTML
 * CSS
