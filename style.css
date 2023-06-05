@@ -8,6 +8,18 @@ body {
     margin: 0 auto;
 }
 
+.container-principal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: #AE80E6;
+    border-radius: 30px;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.441);
+    width: 30vw;
+    height: 60vh;
+}
+
 h1, h2 {
     text-align: center;
     color: #372947;
@@ -15,9 +27,7 @@ h1, h2 {
 }
 
 .calculadora {
-    background-color: #AE80E6;
-    border-radius: 30px;
-    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.441);
+
 }
 
 .numeros .num1, .num2{
@@ -44,6 +54,7 @@ button {
     color: white;
     width: 100px;
     height: 30px;
+    border-radius: 50px;
 }
 
 button:hover {
