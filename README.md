@@ -3,7 +3,6 @@ Aula de Padrões Web na Faculdade de Tecnologia SENAC - DF.
 <br/>
 Exercício: Faça uma calculadora.
 
-<hr>
 <br/>
 
 ## Tecnologias
